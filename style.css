@@ -1,0 +1,39 @@
+
+  #none{
+    background-image: linear-gradient(rgba(0,0,0,0.7), #3551b5), url(AlfedPalmersmokestacks.jpg);
+color: #ffff;
+
+  } 
+
+.text1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align:center;
+    font-size: 30px;
+}
+
+.stuff{
+ 
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.7), #3551b5), url(AlfedPalmersmokestacks.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffff;
+  font-size:20px;
+
+}
+.borderbox{
+
+ margin: 50px;
+ padding: 50px;
+ border: 15px, solid green;
+
+}
+
+
